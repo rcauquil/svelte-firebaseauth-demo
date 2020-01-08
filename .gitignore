@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+.DS_Store?
+*[Tt]humbs.db
+.Spotlight-V100
+.Trashes
+.Trash-1000/
+*.Trashes
+._*
+*.log
+.idea/
+.tmp/
+
+# App
+node_modules/
+dev_*
+public/bundle.*
+config/
+
+# Conventional
+local/
+
+# Custom
+.env
+*.tar
