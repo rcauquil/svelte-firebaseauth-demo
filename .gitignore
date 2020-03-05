@@ -12,6 +12,7 @@
 .tmp/
 
 # App
+.history
 node_modules
 dev_*
 public/bundle.*

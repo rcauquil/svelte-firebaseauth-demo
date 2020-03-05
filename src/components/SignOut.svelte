@@ -1,5 +1,5 @@
 <script>
-  import { signOut } from '../auth';
+  import { signOut } from 'src/services/auth.js';
 </script>
 
 <div class='flex-column'>

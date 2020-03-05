@@ -1,5 +1,5 @@
 <script>
-  import { signIn } from '../auth';
+  import { signIn } from 'src/services/auth.js';
 </script>
 
 <div class='flex-column'>
