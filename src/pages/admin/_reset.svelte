@@ -1,5 +1,5 @@
 <script>
-  import { loggedIn } from 'src/auth.js';
+  import { loggedIn } from 'src/services/auth.js';
   import SignOut from 'src/components/SignOut.svelte';
   
   $: user = $loggedIn;

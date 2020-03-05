@@ -1,5 +1,5 @@
 <script>
-  import { loggedIn } from 'src/auth.js';
+  import { loggedIn } from 'src/services/auth.js';
   import SignIn from 'src/components/SignIn.svelte';
 
   $: if ($loggedIn) {
