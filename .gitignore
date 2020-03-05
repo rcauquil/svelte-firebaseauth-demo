@@ -12,13 +12,13 @@
 .tmp/
 
 # App
-node_modules/
+node_modules
 dev_*
 public/bundle.*
-config/
+config
 
 # Conventional
-local/
+local
 
 # Custom
 .env

@@ -18,7 +18,7 @@
 
 <nav>
   <a href='/'>Home</a>
-  <a href='/signUp'>Sign Up</a>
+  <a href='/About'>About</a>
   <SignIn/>
 </nav>
 
